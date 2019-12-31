@@ -1,4 +1,5 @@
-# DataGridView---DualHeader
+# DataGridView (Dual Headers) -- Creating Group Headers
+
 Create Dual Headers or Group Headers in your DataGridView control
 
 I have searched online for a solution to create dual or multiple headers for the DataGridView control and so far, they don't suit my requirements.
