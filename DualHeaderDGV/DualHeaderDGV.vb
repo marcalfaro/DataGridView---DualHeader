@@ -3,7 +3,7 @@ Module DualHeaderDGV
 
 #Region " Dual Headers "
 
-    'We will use this class to design and build our top header
+    'We will use this class to design and build our top headers (Group Headers)
     Public Class TopHeaderInfo
         Public firstHeaderText As String
         Public firstHeaderFont As Font
